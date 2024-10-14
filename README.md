@@ -1,10 +1,14 @@
-# wallet
+# walleta
 
-This template should help get you started developing with Vue 3 in Vite.
+## What I planned to learn in this project:
+docker, typescript, vue, possibly postgresql
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## What I wanted to achieve in this project:
+basic user management 
+calendar
+income/outcome overview
+take records from bank integration or wat 
+customizable tags
 
 ## Type Support for `.vue` Imports in TS
 
